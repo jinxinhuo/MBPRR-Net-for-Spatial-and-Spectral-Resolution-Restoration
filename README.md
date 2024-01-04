@@ -1,5 +1,5 @@
 # A Restoration Scheme for Spatial and Spectral Resolution of Panchromatic Image Using Convolutional Neural Network (MBPRR-Net)
-Official implementation of "A Restoration Scheme for Spatial and Spectral Resolution of Panchromatic Image Using Convolutional Neural Network" submitted to **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)** 2023
+Official implementation of "A Restoration Scheme for Spatial and Spectral Resolution of Panchromatic Image Using Convolutional Neural Network" accepted by **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)** 2023
 
 ## Contents
 1. [Introduction](#introduction)
